@@ -1,0 +1,37 @@
+.cajas{
+	width:200px;
+	height:200px;
+	}
+
+#red{
+	background-color:red;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+#blue{
+	background-color:blue;
+	position:absolute;
+	right:0px;
+	top:0px;
+}
+
+#green{
+	background-color:green;
+	position:absolute;
+	left:0px;
+	bottom:0px;
+}
+
+#yellow{
+	background-color:yellow;
+	position:absolute;
+	right:0px;
+	bottom:0px;
+}
+body{
+	margin:0px;
+	padding:0px;
+}
+
